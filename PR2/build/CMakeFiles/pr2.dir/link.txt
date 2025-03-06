@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/pr2.dir/main.c.o CMakeFiles/pr2.dir/users.c.o CMakeFiles/pr2.dir/processes.c.o CMakeFiles/pr2.dir/help.c.o CMakeFiles/pr2.dir/log.c.o CMakeFiles/pr2.dir/error_handler.c.o  -o pr2 

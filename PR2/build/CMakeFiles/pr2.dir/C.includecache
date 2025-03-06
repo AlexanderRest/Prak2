@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sa/PR2/error_handler.h
+
+/home/sa/PR2/help.h
+
+/home/sa/PR2/log.h
+
+/home/sa/PR2/main.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+getopt.h
+-
+users.h
+/home/sa/PR2/users.h
+processes.h
+/home/sa/PR2/processes.h
+help.h
+/home/sa/PR2/help.h
+log.h
+/home/sa/PR2/log.h
+error_handler.h
+/home/sa/PR2/error_handler.h
+
+/home/sa/PR2/processes.h
+
+/home/sa/PR2/users.h
+
