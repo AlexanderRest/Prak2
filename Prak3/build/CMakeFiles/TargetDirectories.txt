@@ -1,0 +1,14 @@
+/home/sa/Prak3/build/CMakeFiles/rebuild_cache.dir
+/home/sa/Prak3/build/CMakeFiles/edit_cache.dir
+/home/sa/Prak3/build/Pr3.1/CMakeFiles/rebuild_cache.dir
+/home/sa/Prak3/build/Pr3.1/CMakeFiles/3.1.dir
+/home/sa/Prak3/build/Pr3.1/CMakeFiles/edit_cache.dir
+/home/sa/Prak3/build/Pr3.2/CMakeFiles/rebuild_cache.dir
+/home/sa/Prak3/build/Pr3.2/CMakeFiles/3.2.dir
+/home/sa/Prak3/build/Pr3.2/CMakeFiles/edit_cache.dir
+/home/sa/Prak3/build/Pr3.3/CMakeFiles/rebuild_cache.dir
+/home/sa/Prak3/build/Pr3.3/CMakeFiles/3.3.dir
+/home/sa/Prak3/build/Pr3.3/CMakeFiles/edit_cache.dir
+/home/sa/Prak3/build/Pr3.4/CMakeFiles/rebuild_cache.dir
+/home/sa/Prak3/build/Pr3.4/CMakeFiles/3.4.dir
+/home/sa/Prak3/build/Pr3.4/CMakeFiles/edit_cache.dir
